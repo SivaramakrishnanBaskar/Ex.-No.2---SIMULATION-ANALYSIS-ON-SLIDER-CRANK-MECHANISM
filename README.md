@@ -40,10 +40,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## OUTPUT
-
 ![image](https://github.com/Rajkumar28072005/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/144980101/58680873-f448-4df6-82e6-e493fc10a417)
 
-### Name:RAJKU
+### Name: Sivaramakrishnan B
 ### Register Number:212222110044
 
 ## RESULT:
